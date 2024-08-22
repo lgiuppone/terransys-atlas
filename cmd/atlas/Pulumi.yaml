@@ -1,0 +1,7 @@
+name: atlas
+runtime: go
+description: 'Infrastructure Module: Contains Pulumi code for creating and managing infrastructure on AWS.'
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: go
